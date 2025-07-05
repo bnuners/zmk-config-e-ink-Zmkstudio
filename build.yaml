@@ -185,3 +185,6 @@ include:
     shield: settings_reset
     artifact-name: puchi_settings_reset
   ### SETTINGS_RESET END ###
+
+  - board: corneish_zen_v2_left
+  - board: corneish_zen_v2_right
